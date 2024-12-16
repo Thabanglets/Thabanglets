@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Thabang
-- 👀 I’m interested in drumming and coding 
+- 👋 Hi, I’m Thabang Letsoalo
+- 👀 I’m interested in building tech gadgets and coding
 - 🌱 I’m currently learning software development 
 
 
